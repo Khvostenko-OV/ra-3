@@ -1,0 +1,19 @@
+.toolbar-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 660px;
+}
+
+.toolbar-filter {
+  background: white;
+  color: black;
+  border: 1px solid black;
+  margin: 0 .3em;
+  padding: 0 .5em;
+  cursor: pointer;
+}
+
+.toolbar-selected {
+  background: black;
+  color: white;
+}
